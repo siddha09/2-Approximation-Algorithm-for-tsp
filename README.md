@@ -7,8 +7,8 @@ Travelling_salesman_problem.java is for the dynamic approach.
 Compare.java is used to compare the results obtained.
 
 Group Members-
-Siddha Deshmukh
-Sreya Vallabhaneni
+Siddha Deshmukh,
+Sreya Vallabhaneni,
 Vartika Gupta
 (C.S.E Department)
 
